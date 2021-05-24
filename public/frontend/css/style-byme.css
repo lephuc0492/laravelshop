@@ -1,0 +1,39 @@
+#pageination nav
+{
+    text-align: right;
+}
+#pageination nav ul
+{
+	margin-bottom: 0;
+}
+#pageination nav ul span
+{
+	color: red;
+	padding-top: 0;
+	padding-bottom: 0; 
+}
+.page-link
+{
+	color: orange !important;
+}
+.productinfo p 
+{
+	height: 40px;
+}
+.search_box
+{
+	width: 100%;
+}
+.search_box input
+{
+	width: 100%;
+}
+.item p 
+{
+	font-family: Arial;
+}
+.features_items
+{
+	display: flex;
+    flex-wrap: wrap;
+}

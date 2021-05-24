@@ -1,0 +1,43 @@
+.img-goods
+{
+	width: 100px;
+	height: 100px;
+}
+.save_infor_login
+{
+	margin-top: 4px !important;
+}
+.panel-heading
+{
+	height: auto !important;
+}
+.form-product-sample-data
+{
+	line-height: 20px;
+}
+.input-product-sample-data
+{
+	font-family: arial;
+    border-radius: 10px;
+    background: #ddede0;
+    border: none;
+}
+.form-add
+{
+	display: inline;
+}
+.table tr th:nth-child(2)
+{
+	width: 20%;
+}
+.table tr th:nth-child(3)
+{
+	width: 30%;
+}
+
+.img-listdata
+{
+	display: block;
+    width: auto;
+    max-height: 100px;
+}

@@ -1,0 +1,37 @@
+[
+	{
+    "name_category_brand" : "Samsung", 
+    "desc_category_brand" : "Thương hiệu hàn quốc", 
+    "show_category_brand" : 1 
+	},
+	{
+    "name_category_brand" : "Sony", 
+    "desc_category_brand" : "Nhật bản", 
+    "show_category_brand" : 1 
+	},
+	{
+    "name_category_brand" : "LG", 
+    "desc_category_brand" : "Hàn quốc", 
+    "show_category_brand" : 1 	
+	},
+	{
+    "name_category_brand" : "Dell", 
+    "desc_category_brand" : "Chuyên laptop màn hình máy tính", 
+    "show_category_brand" : 1 	
+    },
+    {
+    "name_category_brand" : "Apple", 
+    "desc_category_brand" : "Chuyên laptop màn hình máy tính & Điện thoại", 
+    "show_category_brand" : 1     
+    },
+    {
+    "name_category_brand" : "Honda", 
+    "desc_category_brand" : "Xe máy sản xuất bởi công ty Nhật bản!", 
+    "show_category_brand" : 1
+    },
+    {
+    "name_category_brand" : "Vaio", 
+    "desc_category_brand" : "Chuyên laptop màn hình máy tính!", 
+    "show_category_brand" : 1    
+    }
+]
